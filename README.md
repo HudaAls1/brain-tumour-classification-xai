@@ -17,7 +17,7 @@ The primary original contribution is the **empirical quantification of data leak
 | **Kaggle Brain Tumour MRI Dataset V2** | [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) | 4 (Glioma, Meningioma, Pituitary, No Tumour) | 6,878 (after MD5 deduplication) | N/A | Random 80/20 |
 | **Figshare Brain Tumor Dataset V5** | [Figshare](https://ndownloader.figshare.com/articles/1512427/versions/5) | 3 (Glioma, Meningioma, Pituitary) | 3,064 | 233 | Patient-level 80/20 |
 
-> **Note on Kaggle V2:** Despite claiming deduplication, residual duplicates were discovered and removed via MD5 hash-based cleaning — a secondary methodological contribution of this work.
+> **Note on Kaggle V2:** Despite claiming deduplication, residual duplicates were discovered and removed via MD5 hash-based cleaning a secondary methodological contribution of this work.
 
 ## Results Summary
 
